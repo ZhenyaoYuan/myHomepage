@@ -19,7 +19,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# myHomepage
+# 我的主页
 ```
 项目名称：《我的主页》网页设计
 项目描述：根据本人的个人信息，兴趣爱好，人生经历等信息整合制作用于记录个人信息的网站
